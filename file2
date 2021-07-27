@@ -17,7 +17,13 @@ click on okay
 
 
 
+
 ---------------------
 sec remote add data
 sec remote some data
 sec remote okay
+
+loc sec add data
+loc sec mod data
+loc sec okay
+
